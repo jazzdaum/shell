@@ -14,5 +14,7 @@ git status #查看状态
 
 git commit -m "first commit."  #提交到仓库
 
+git push -u origin master #推送数据到master
+
 git diff  #版本对比：在没提交到暂存区之前可以对比
 ```
